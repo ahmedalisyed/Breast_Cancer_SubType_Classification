@@ -49,7 +49,7 @@ Both datasets are available for download via the following Google Drive link:
 2. Download datasets from the provided Google Drive link and place them in the `data/` directory.
 3. Run the notebook:
    ```bash
-   jupyter notebook Breast_Cancer_Classification.ipynb
+   jupyter notebook breast-cancer-subtype-classification_org.ipynb
    ```
 
 ### Results
